@@ -5,4 +5,5 @@ Tady je kus textu
 - Jedna
 - Dva
 - Tři
+- Čtyři
 A další kus textu **tučný**
